@@ -2,6 +2,7 @@ import { Route, Routes } from "react-router-dom";
 import Home from "./pages/Home.jsx";
 import Favorite from "./pages/Favorite.jsx";
 import NavBar from "./components/NavBar.jsx";
+import "./css/App.css";
 
 const App = () => {
   return (
